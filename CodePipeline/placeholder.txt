@@ -1,0 +1,1 @@
+Add screenshots of IAM Role, trust relationship, identity provider config, and STS token usage.
