@@ -1,1 +1,0 @@
-Add screenshots here: Lambda console, API Gateway routes, DynamoDB tables, etc.
