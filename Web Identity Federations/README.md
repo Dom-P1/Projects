@@ -27,7 +27,7 @@ A serverless AWS application that uses **Web Identity Federation** to allow user
 
 - **STS (Security Token Service)** – To generate temporary credentials
 - **IAM Roles** – With trust policies for federated identities
-- **S3 – Accessed using temporary creds
+- **S3** – Accessed using temporary creds
 
 ---
 
