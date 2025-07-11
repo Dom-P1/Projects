@@ -39,14 +39,22 @@ A serverless AWS project that allows users to book virtual cuddle sessions with 
 
 - IAM roles scoped to individual Lambda functions
 - S3 buckets block public access
-- Encryption enabled (SSE-S3 / DynamoDB default)
+- Encryption enabled 
 - Logging and monitoring via CloudWatch and CloudTrail
 
 ---
 
-## 📸 Screenshots
+## 🎥 Walkthrough Video
 
-Screenshots of AWS Console setup are available in the `/screenshots` folder.
+A full video walkthrough documents the deployment and testing of the **Cuddle-O-Tron** serverless application using AWS Lambda, API Gateway, and S3.
+
+The video includes:
+- Lambda function setup
+- API Gateway configuration for triggering the function
+- S3 bucket used to serve static assets 
+- End-to-end demo of how the app works via web interface
+
+📹 (https://youtu.be/YdvCBG6NJtg)
 
 ---
 
@@ -60,5 +68,4 @@ Screenshots of AWS Console setup are available in the `/screenshots` folder.
 
 ## ✍️ Author
 
-Dom Pine – Cloud Security & AWS Learner  
-[LinkedIn](https://linkedin.com) | [Portfolio](https://yourportfolio.com)
+Dominic Pinedo
