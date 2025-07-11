@@ -43,13 +43,17 @@ This project documents the migration of a relational database using **AWS Databa
 
 ---
 
-## 🖼️ Screenshots
+## 🎥 Walkthrough Video
 
-Find screenshots in the `/screenshots` folder:
-- DMS Replication Instance configuration
-- Replication task setup
-- Source and target endpoint test connection results
-- CloudWatch monitoring metrics
+Instead of static screenshots, this project includes a **recorded walkthrough video** showing the full process of using AWS DMS to migrate a database.
+
+The video covers:
+- Setting up source and target endpoints
+- Creating the DMS replication instance
+- Configuring and launching the migration task
+- Monitoring progress via CloudWatch and the DMS console
+
+📹 https://youtu.be/SkcZJ2UwZ6Q
 
 ---
 
@@ -64,5 +68,4 @@ Find screenshots in the `/screenshots` folder:
 
 ## ✍️ Author
 
-Dom Pine – Cloud Security & AWS Learner  
-[LinkedIn](https://linkedin.com) | [Portfolio](https://yourportfolio.com)
+Dominic Pinedo
